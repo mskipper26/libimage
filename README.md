@@ -9,7 +9,7 @@ this is not the finished state of the library.
 
 Author:  Michael Skipper
 
-Version: 1.0
+Version: 1.0.0
 
 Date:    December 31, 2024
 
