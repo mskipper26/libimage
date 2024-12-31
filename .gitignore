@@ -1,0 +1,11 @@
+# Ignore image files
+*.bmp
+*.jpeg
+*.jpg
+*.jfif
+*.png
+
+# Ignore object files and library
+*.o
+libimage.so
+program
