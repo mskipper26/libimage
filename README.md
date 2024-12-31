@@ -7,13 +7,14 @@ in building C libraries. This library is by no means exhaustive and will
 only support a limited number of use cases. It is a work in progress, so
 this is not the finished state of the library.
 
-
 Author:  Michael Skipper
+
 Version: 1.0
+
 Date:    December 31, 2024
 
-
 Features:
+
     - File types supported: JPEG, BMP
     - Data representation: supports 24-bit RGB and 8-bit grayscale images
     - Conversion: supports compression to and decompression from JPEG
@@ -24,6 +25,7 @@ Features:
                 for BMP; decompressing and compressing for JPEG)
 
 Future Implementations:
+
     - Support for reduction in resolution of images.
     - Support for PNG files, possibly other file types.
     - Modification of pixel data 
